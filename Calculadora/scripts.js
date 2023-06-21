@@ -16,4 +16,5 @@ function inserc(num) {
     } else {
         document.getElementById("Resultado").innerHTML = "Nenhum valor...";
     }
+    //Esse codigo processa a calculadora
 }
